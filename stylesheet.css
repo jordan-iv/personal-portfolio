@@ -1,0 +1,13 @@
+  *{ 
+margin: 0;
+padding: 0;
+font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"; 
+box-sizing: border-box;
+}
+
+body{
+background: #DCEDB9;
+	color: #1E3F20; 
+	
+}
+
